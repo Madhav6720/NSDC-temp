@@ -56,7 +56,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = "react-app"
-        CONTAINER_NAME = "jolly_almeida"
+        CONTAINER_NAME = "nostalgic_sutherland"
     }
 
     stages {
